@@ -30,6 +30,7 @@ from src.adjective_typing import clean_adjective
 
 clean_adjective("Beautiful!")
 # -> "beautiful"
+```
 
 ## Data Source
 
