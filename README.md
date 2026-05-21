@@ -4,7 +4,7 @@ A linguistics/NLP project exploring whether English adjectives can be categorize
 
 ## Overview
 
-English adjective order often follows a rough sequence such as opinion, size, age, shape, color, origin, material, and purpose. This project investigates whether adjectives can be grouped into useful semantic categories by processing entries from Roget’s Thesaurus.
+English adjective order often follows a rough sequence such as opinion, size, age, shape, color, origin, material, and purpose. This project investigates whether adjectives can be grouped into useful semantic categories by processing entries from Roget’s Thesaurus. This can be used for stylometric analysis and authorship attribution studies.
 
 ## Project Status
 
@@ -22,6 +22,14 @@ This repository contains a cleaned project version and an archived copy of the o
 - Python
 - NLTK
 - Jupyter Notebook
+
+## Example Usage
+
+```python
+from src.adjective_typing import clean_adjective
+
+clean_adjective("Beautiful!")
+# -> "beautiful"
 
 ## Data Source
 
