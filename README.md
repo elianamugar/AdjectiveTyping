@@ -34,7 +34,7 @@ clean_adjective("Beautiful!")
 
 ## Data Source
 
-Roget’s Thesaurus via Project Gutenberg.
+[Roget’s Thesaurus via Project Gutenberg]([url](https://www.gutenberg.org/files/10681/10681-h/10681-h.htm)).
 
 ## Notes
 
