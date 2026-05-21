@@ -1,6 +1,0 @@
-nltk
-pandas
-numpy
-beautifulsoup4
-requests
-os
