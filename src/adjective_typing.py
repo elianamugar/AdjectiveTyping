@@ -4,6 +4,11 @@ Adjective categorization utilities.
 This module contains reusable functions extracted from the
 analysis notebook.
 """
+from src.adjective_typing import (
+    clean_adjective,
+    clean_adjective_list,
+    build_lookup
+)
 
 import re
 from collections import defaultdict
